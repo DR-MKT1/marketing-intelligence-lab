@@ -1,0 +1,7 @@
+Marketing Intelligence Lab
+Copyright (c) 2026 Dr. Nik. All rights reserved.
+
+This application and its bundled datasets were created by Dr. Nik. Students in
+Dr. Nik's courses may use the app freely for coursework. Reuse, redistribution,
+rebranding, or adoption of this application or its datasets for other courses
+or commercial purposes requires written permission from Dr. Nik.
