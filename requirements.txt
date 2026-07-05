@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+statsmodels
+scikit-learn
+scikit-posthocs
+scipy
+matplotlib
+wordcloud
+textblob
+nltk
+Pillow
