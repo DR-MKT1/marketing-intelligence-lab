@@ -1,0 +1,201 @@
+review_id,review_text,true_label,star_rating
+1,"I absolutely love my NovaGlow serum, the quality is amazing and my skin feels great.",positive,4
+2,The NovaGlow moisturizer is fantastic value for the price. Better than Lumira in my opinion.,positive,5
+3,My order from NovaGlow was wrong and support in Chicago never responded.,negative,2
+4,"The new NovaGlow sunscreen works wonderfully, lightweight and affordable price.",positive,5
+5,"The new NovaGlow sunscreen works wonderfully, lightweight and affordable price.",positive,4
+6,"Great packaging, the product arrived quickly and the quality exceeded my expectations.",positive,4
+7,"Terrible shipping experience, my NovaGlow order took three weeks to arrive in Austin.",negative,2
+8,"The new NovaGlow sunscreen works wonderfully, lightweight and affordable price.",positive,5
+9,My order from NovaGlow was wrong and support in Chicago never responded.,negative,2
+10,"The NovaGlow cleanser is okay, nothing special but the price is reasonable.",neutral,3
+11,"The new NovaGlow sunscreen works wonderfully, lightweight and affordable price.",positive,4
+12,Customer service at NovaGlow was helpful and friendly when I called from Houston.,positive,5
+13,"The new NovaGlow sunscreen works wonderfully, lightweight and affordable price.",positive,5
+14,Customer service at NovaGlow was helpful and friendly when I called from Houston.,positive,5
+15,"Terrible shipping experience, my NovaGlow order took three weeks to arrive in Austin.",negative,2
+16,The NovaGlow moisturizer is fantastic value for the price. Better than Lumira in my opinion.,positive,5
+17,My order from NovaGlow was wrong and support in Chicago never responded.,negative,2
+18,"The NovaGlow cleanser is okay, nothing special but the price is reasonable.",neutral,3
+19,"Terrible shipping experience, my NovaGlow order took three weeks to arrive in Austin.",negative,2
+20,"Terrible shipping experience, my NovaGlow order took three weeks to arrive in Austin.",negative,2
+21,Customer service at NovaGlow was helpful and friendly when I called from Houston.,positive,5
+22,"I absolutely love my NovaGlow serum, the quality is amazing and my skin feels great.",positive,4
+23,"Average product, shipping was on time, quality is acceptable for the price.",neutral,3
+24,"Customer service was rude and unhelpful, NovaGlow really disappointed me this time.",negative,1
+25,"The NovaGlow cleanser is okay, nothing special but the price is reasonable.",neutral,3
+26,"Customer service was rude and unhelpful, NovaGlow really disappointed me this time.",negative,2
+27,"Customer service was rude and unhelpful, NovaGlow really disappointed me this time.",negative,2
+28,"Customer service was rude and unhelpful, NovaGlow really disappointed me this time.",negative,1
+29,Overpriced and the packaging arrived damaged. Very disappointed with the shipping.,negative,1
+30,"Great packaging, the product arrived quickly and the quality exceeded my expectations.",positive,5
+31,"Great packaging, the product arrived quickly and the quality exceeded my expectations.",positive,4
+32,"The new NovaGlow sunscreen works wonderfully, lightweight and affordable price.",positive,4
+33,"The NovaGlow cleanser is okay, nothing special but the price is reasonable.",neutral,3
+34,"The NovaGlow cleanser is okay, nothing special but the price is reasonable.",neutral,3
+35,The price is way too high for such poor quality. Switching back to Lumira.,negative,2
+36,The price is way too high for such poor quality. Switching back to Lumira.,negative,1
+37,"Great packaging, the product arrived quickly and the quality exceeded my expectations.",positive,4
+38,"The new NovaGlow sunscreen works wonderfully, lightweight and affordable price.",positive,4
+39,"The new NovaGlow sunscreen works wonderfully, lightweight and affordable price.",positive,4
+40,"Customer service was rude and unhelpful, NovaGlow really disappointed me this time.",negative,1
+41,"Great packaging, the product arrived quickly and the quality exceeded my expectations.",positive,5
+42,The price is way too high for such poor quality. Switching back to Lumira.,negative,1
+43,"The NovaGlow cleanser is okay, nothing special but the price is reasonable.",neutral,3
+44,My order from NovaGlow was wrong and support in Chicago never responded.,negative,1
+45,My order from NovaGlow was wrong and support in Chicago never responded.,negative,1
+46,"I absolutely love my NovaGlow serum, the quality is amazing and my skin feels great.",positive,4
+47,"I absolutely love my NovaGlow serum, the quality is amazing and my skin feels great.",positive,5
+48,Overpriced and the packaging arrived damaged. Very disappointed with the shipping.,negative,2
+49,Overpriced and the packaging arrived damaged. Very disappointed with the shipping.,negative,1
+50,"Great packaging, the product arrived quickly and the quality exceeded my expectations.",positive,5
+51,Customer service at NovaGlow was helpful and friendly when I called from Houston.,positive,5
+52,My order from NovaGlow was wrong and support in Chicago never responded.,negative,1
+53,"Great packaging, the product arrived quickly and the quality exceeded my expectations.",positive,5
+54,"The NovaGlow cleanser is okay, nothing special but the price is reasonable.",neutral,3
+55,"Average product, shipping was on time, quality is acceptable for the price.",neutral,3
+56,Fast shipping and excellent customer service from NovaGlow. Ordered again from Dallas last week.,positive,5
+57,"The serum broke me out badly, awful quality control at NovaGlow.",negative,1
+58,"The serum broke me out badly, awful quality control at NovaGlow.",negative,1
+59,The NovaGlow moisturizer is fantastic value for the price. Better than Lumira in my opinion.,positive,4
+60,"The new NovaGlow sunscreen works wonderfully, lightweight and affordable price.",positive,4
+61,"Average product, shipping was on time, quality is acceptable for the price.",neutral,3
+62,"The new NovaGlow sunscreen works wonderfully, lightweight and affordable price.",positive,4
+63,Customer service at NovaGlow was helpful and friendly when I called from Houston.,positive,5
+64,"Terrible shipping experience, my NovaGlow order took three weeks to arrive in Austin.",negative,2
+65,The price is way too high for such poor quality. Switching back to Lumira.,negative,2
+66,The NovaGlow moisturizer is fantastic value for the price. Better than Lumira in my opinion.,positive,5
+67,The NovaGlow moisturizer is fantastic value for the price. Better than Lumira in my opinion.,positive,5
+68,The NovaGlow moisturizer is fantastic value for the price. Better than Lumira in my opinion.,positive,5
+69,Overpriced and the packaging arrived damaged. Very disappointed with the shipping.,negative,2
+70,Fast shipping and excellent customer service from NovaGlow. Ordered again from Dallas last week.,positive,5
+71,"The new NovaGlow sunscreen works wonderfully, lightweight and affordable price.",positive,4
+72,"The NovaGlow cleanser is okay, nothing special but the price is reasonable.",neutral,3
+73,"I absolutely love my NovaGlow serum, the quality is amazing and my skin feels great.",positive,5
+74,My order from NovaGlow was wrong and support in Chicago never responded.,negative,2
+75,"The new NovaGlow sunscreen works wonderfully, lightweight and affordable price.",positive,4
+76,"Customer service was rude and unhelpful, NovaGlow really disappointed me this time.",negative,2
+77,Fast shipping and excellent customer service from NovaGlow. Ordered again from Dallas last week.,positive,5
+78,Customer service at NovaGlow was helpful and friendly when I called from Houston.,positive,4
+79,The price is way too high for such poor quality. Switching back to Lumira.,negative,2
+80,Customer service at NovaGlow was helpful and friendly when I called from Houston.,positive,4
+81,"The serum broke me out badly, awful quality control at NovaGlow.",negative,2
+82,"Average product, shipping was on time, quality is acceptable for the price.",neutral,3
+83,"The NovaGlow cleanser is okay, nothing special but the price is reasonable.",neutral,3
+84,"Customer service was rude and unhelpful, NovaGlow really disappointed me this time.",negative,2
+85,The NovaGlow moisturizer is fantastic value for the price. Better than Lumira in my opinion.,positive,4
+86,"The NovaGlow cleanser is okay, nothing special but the price is reasonable.",neutral,3
+87,The price is way too high for such poor quality. Switching back to Lumira.,negative,2
+88,"Great packaging, the product arrived quickly and the quality exceeded my expectations.",positive,5
+89,"The NovaGlow cleanser is okay, nothing special but the price is reasonable.",neutral,3
+90,Fast shipping and excellent customer service from NovaGlow. Ordered again from Dallas last week.,positive,5
+91,Customer service at NovaGlow was helpful and friendly when I called from Houston.,positive,4
+92,"Average product, shipping was on time, quality is acceptable for the price.",neutral,3
+93,Customer service at NovaGlow was helpful and friendly when I called from Houston.,positive,4
+94,"Customer service was rude and unhelpful, NovaGlow really disappointed me this time.",negative,1
+95,Fast shipping and excellent customer service from NovaGlow. Ordered again from Dallas last week.,positive,4
+96,"I absolutely love my NovaGlow serum, the quality is amazing and my skin feels great.",positive,5
+97,"The NovaGlow cleanser is okay, nothing special but the price is reasonable.",neutral,3
+98,"Customer service was rude and unhelpful, NovaGlow really disappointed me this time.",negative,2
+99,"Average product, shipping was on time, quality is acceptable for the price.",neutral,3
+100,The NovaGlow moisturizer is fantastic value for the price. Better than Lumira in my opinion.,positive,4
+101,"Average product, shipping was on time, quality is acceptable for the price.",neutral,3
+102,My order from NovaGlow was wrong and support in Chicago never responded.,negative,1
+103,"The new NovaGlow sunscreen works wonderfully, lightweight and affordable price.",positive,4
+104,"The serum broke me out badly, awful quality control at NovaGlow.",negative,2
+105,"Great packaging, the product arrived quickly and the quality exceeded my expectations.",positive,5
+106,Overpriced and the packaging arrived damaged. Very disappointed with the shipping.,negative,2
+107,"The NovaGlow cleanser is okay, nothing special but the price is reasonable.",neutral,3
+108,Fast shipping and excellent customer service from NovaGlow. Ordered again from Dallas last week.,positive,5
+109,The NovaGlow moisturizer is fantastic value for the price. Better than Lumira in my opinion.,positive,4
+110,"I absolutely love my NovaGlow serum, the quality is amazing and my skin feels great.",positive,5
+111,Fast shipping and excellent customer service from NovaGlow. Ordered again from Dallas last week.,positive,4
+112,"The NovaGlow cleanser is okay, nothing special but the price is reasonable.",neutral,3
+113,"Customer service was rude and unhelpful, NovaGlow really disappointed me this time.",negative,1
+114,"The NovaGlow cleanser is okay, nothing special but the price is reasonable.",neutral,3
+115,"I absolutely love my NovaGlow serum, the quality is amazing and my skin feels great.",positive,5
+116,Customer service at NovaGlow was helpful and friendly when I called from Houston.,positive,5
+117,The NovaGlow moisturizer is fantastic value for the price. Better than Lumira in my opinion.,positive,4
+118,"Customer service was rude and unhelpful, NovaGlow really disappointed me this time.",negative,1
+119,"The NovaGlow cleanser is okay, nothing special but the price is reasonable.",neutral,3
+120,Overpriced and the packaging arrived damaged. Very disappointed with the shipping.,negative,2
+121,The NovaGlow moisturizer is fantastic value for the price. Better than Lumira in my opinion.,positive,5
+122,The price is way too high for such poor quality. Switching back to Lumira.,negative,2
+123,"The NovaGlow cleanser is okay, nothing special but the price is reasonable.",neutral,3
+124,"Customer service was rude and unhelpful, NovaGlow really disappointed me this time.",negative,1
+125,The price is way too high for such poor quality. Switching back to Lumira.,negative,2
+126,"I absolutely love my NovaGlow serum, the quality is amazing and my skin feels great.",positive,4
+127,"The new NovaGlow sunscreen works wonderfully, lightweight and affordable price.",positive,5
+128,"The new NovaGlow sunscreen works wonderfully, lightweight and affordable price.",positive,5
+129,The NovaGlow moisturizer is fantastic value for the price. Better than Lumira in my opinion.,positive,5
+130,"The new NovaGlow sunscreen works wonderfully, lightweight and affordable price.",positive,5
+131,"The new NovaGlow sunscreen works wonderfully, lightweight and affordable price.",positive,4
+132,"Customer service was rude and unhelpful, NovaGlow really disappointed me this time.",negative,1
+133,"Great packaging, the product arrived quickly and the quality exceeded my expectations.",positive,5
+134,The price is way too high for such poor quality. Switching back to Lumira.,negative,1
+135,Fast shipping and excellent customer service from NovaGlow. Ordered again from Dallas last week.,positive,4
+136,The NovaGlow moisturizer is fantastic value for the price. Better than Lumira in my opinion.,positive,4
+137,Fast shipping and excellent customer service from NovaGlow. Ordered again from Dallas last week.,positive,5
+138,"The NovaGlow cleanser is okay, nothing special but the price is reasonable.",neutral,3
+139,"Customer service was rude and unhelpful, NovaGlow really disappointed me this time.",negative,1
+140,"Great packaging, the product arrived quickly and the quality exceeded my expectations.",positive,5
+141,The price is way too high for such poor quality. Switching back to Lumira.,negative,1
+142,"Terrible shipping experience, my NovaGlow order took three weeks to arrive in Austin.",negative,2
+143,The price is way too high for such poor quality. Switching back to Lumira.,negative,1
+144,"Great packaging, the product arrived quickly and the quality exceeded my expectations.",positive,4
+145,Overpriced and the packaging arrived damaged. Very disappointed with the shipping.,negative,2
+146,"The serum broke me out badly, awful quality control at NovaGlow.",negative,2
+147,The price is way too high for such poor quality. Switching back to Lumira.,negative,1
+148,Customer service at NovaGlow was helpful and friendly when I called from Houston.,positive,5
+149,My order from NovaGlow was wrong and support in Chicago never responded.,negative,1
+150,My order from NovaGlow was wrong and support in Chicago never responded.,negative,1
+151,"Great packaging, the product arrived quickly and the quality exceeded my expectations.",positive,4
+152,"I absolutely love my NovaGlow serum, the quality is amazing and my skin feels great.",positive,5
+153,"I absolutely love my NovaGlow serum, the quality is amazing and my skin feels great.",positive,5
+154,"The serum broke me out badly, awful quality control at NovaGlow.",negative,1
+155,Customer service at NovaGlow was helpful and friendly when I called from Houston.,positive,4
+156,"The new NovaGlow sunscreen works wonderfully, lightweight and affordable price.",positive,4
+157,"Great packaging, the product arrived quickly and the quality exceeded my expectations.",positive,5
+158,"The new NovaGlow sunscreen works wonderfully, lightweight and affordable price.",positive,4
+159,The price is way too high for such poor quality. Switching back to Lumira.,negative,1
+160,Overpriced and the packaging arrived damaged. Very disappointed with the shipping.,negative,2
+161,"I absolutely love my NovaGlow serum, the quality is amazing and my skin feels great.",positive,5
+162,Fast shipping and excellent customer service from NovaGlow. Ordered again from Dallas last week.,positive,4
+163,"The serum broke me out badly, awful quality control at NovaGlow.",negative,2
+164,"I absolutely love my NovaGlow serum, the quality is amazing and my skin feels great.",positive,4
+165,Overpriced and the packaging arrived damaged. Very disappointed with the shipping.,negative,2
+166,"Terrible shipping experience, my NovaGlow order took three weeks to arrive in Austin.",negative,2
+167,"Terrible shipping experience, my NovaGlow order took three weeks to arrive in Austin.",negative,2
+168,"The new NovaGlow sunscreen works wonderfully, lightweight and affordable price.",positive,4
+169,"Terrible shipping experience, my NovaGlow order took three weeks to arrive in Austin.",negative,1
+170,"The NovaGlow cleanser is okay, nothing special but the price is reasonable.",neutral,3
+171,"The new NovaGlow sunscreen works wonderfully, lightweight and affordable price.",positive,5
+172,"The NovaGlow cleanser is okay, nothing special but the price is reasonable.",neutral,3
+173,"The NovaGlow cleanser is okay, nothing special but the price is reasonable.",neutral,3
+174,My order from NovaGlow was wrong and support in Chicago never responded.,negative,2
+175,My order from NovaGlow was wrong and support in Chicago never responded.,negative,1
+176,"Customer service was rude and unhelpful, NovaGlow really disappointed me this time.",negative,2
+177,"Great packaging, the product arrived quickly and the quality exceeded my expectations.",positive,5
+178,The price is way too high for such poor quality. Switching back to Lumira.,negative,2
+179,"The new NovaGlow sunscreen works wonderfully, lightweight and affordable price.",positive,4
+180,My order from NovaGlow was wrong and support in Chicago never responded.,negative,2
+181,"Terrible shipping experience, my NovaGlow order took three weeks to arrive in Austin.",negative,2
+182,"The serum broke me out badly, awful quality control at NovaGlow.",negative,2
+183,"Average product, shipping was on time, quality is acceptable for the price.",neutral,3
+184,"The serum broke me out badly, awful quality control at NovaGlow.",negative,2
+185,My order from NovaGlow was wrong and support in Chicago never responded.,negative,1
+186,"I absolutely love my NovaGlow serum, the quality is amazing and my skin feels great.",positive,4
+187,Overpriced and the packaging arrived damaged. Very disappointed with the shipping.,negative,2
+188,"Terrible shipping experience, my NovaGlow order took three weeks to arrive in Austin.",negative,1
+189,"Terrible shipping experience, my NovaGlow order took three weeks to arrive in Austin.",negative,1
+190,"The NovaGlow cleanser is okay, nothing special but the price is reasonable.",neutral,3
+191,"Customer service was rude and unhelpful, NovaGlow really disappointed me this time.",negative,2
+192,"The NovaGlow cleanser is okay, nothing special but the price is reasonable.",neutral,3
+193,My order from NovaGlow was wrong and support in Chicago never responded.,negative,1
+194,"Customer service was rude and unhelpful, NovaGlow really disappointed me this time.",negative,2
+195,"The new NovaGlow sunscreen works wonderfully, lightweight and affordable price.",positive,4
+196,"Customer service was rude and unhelpful, NovaGlow really disappointed me this time.",negative,1
+197,Customer service at NovaGlow was helpful and friendly when I called from Houston.,positive,4
+198,"The serum broke me out badly, awful quality control at NovaGlow.",negative,2
+199,"The new NovaGlow sunscreen works wonderfully, lightweight and affordable price.",positive,5
+200,The price is way too high for such poor quality. Switching back to Lumira.,negative,1
